@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Nikhil LK</h1>
+ <h1 align="center">👋 Hi, I'm Nikhil LK</h1>
 
 <p align="center">
   <b>🚀 Software Developer | 💻 Full Stack & ML Enthusiast | 🌐 Web Application Creator</b>
@@ -43,6 +43,37 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+### 📌 Current Focus
+
+- ✨ Building intelligent AI-powered applications
+- ✨ Strengthening Python Full Stack Development
+- ✨ Exploring Machine Learning and Computer Vision
+- ✨ Developing scalable software solutions
+- ✨ Continuous learning and innovation
+
+---
+
+### 🌟 Career Interests
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 💻 Python Full Stack Development
+- 📊 Data Science & Analytics
+- 🌐 Software Engineering
+- ☁️ Cloud & Modern Web Technologies
+
+---
+
+### 🤝 Open to Opportunities
+
+- Software Developer Roles
+- Python Developer Roles
+- Full Stack Developer Roles
+- AI/ML Opportunities
+- Open Source Contributions
+- Collaborative Tech Projects
 
 ---
 
